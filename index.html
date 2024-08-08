@@ -24,7 +24,7 @@
             var archivoCSV = 'datos.csv'; // Nombre de tu archivo CSV
 
             // Nombres de las columnas
-            var nombresColumnas = ["Fecha solicitud", "CV", "Nombre", "Patente", "Estado","Descripción de la falla"];
+            var nombresColumnas = ["Fecha solicitud", "CV", "Nombre", "Patente", "Descripción de la falla", "Estado","Comentarios"];
 
             var xhr = new XMLHttpRequest();
             xhr.onreadystatechange = function() {
@@ -79,7 +79,7 @@
     <img id="imagen-esquina" src="imagen.png" alt="Imagen" />
     <h1>Revisión de solicitudes</h1>
     <h2>Departamento de Vehículos</h2>
-    <p>Ingrese su nombre para filtrar:</p>
+    <p>Ingrese su patente (En mayúsculas) para filtrar:</p>
     <input type="text" id="filtro" placeholder="ej: Kevin Urtubia">
     <button onclick="filtrarDatos()">Aceptar</button>
     <table id="tablaDatos">
