@@ -1,29 +1,29 @@
 Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la falla;Estado ;Comentarios
-24-08-2024;SAN FERNANDO;Gastón Carreño Ramirez ;PJTT-25;Luces de baja quemada ;PENDIENTE;
-24-08-2024;OSORNO;Hilario Fucha ;PKFD83;Luz baja quemada ;PENDIENTE;
+24-08-2024;SAN FERNANDO;Gastón Carreño Ramirez ;PJTT-25;Luces de baja quemada ;GESTIONADO;LUCES CAMBIADAS
+24-08-2024;OSORNO;Hilario Fucha ;PKFD83;Luz baja quemada ;GESTIONADO;LUZ CAMBIADA
 24-08-2024;LO ESPEJO;Jorge Carrillo Jerez;KFWT-78;No encienden las luces de retroceso y chapa de encendido con problemas de conexión ;PENDIENTE;
-23-08-2024;CONCEPCION;Fabián Moncada ;PB-PD 62;Batería del camión en mal estado ;PENDIENTE;
+23-08-2024;CONCEPCION;Fabián Moncada ;PB-PD 62;Batería del camión en mal estado ;EN PROCESO;
 23-08-2024;LO ESPEJO;Ramón Gustavo Salazar ;JKGH 41;Cinturón de seguridad conductor malo ;PENDIENTE;
-23-08-2024;CONCEPCION;Luis Crisostomo ;SRYB-16;Prueba;PENDIENTE;
-22-08-2024;TEMUCO;José Muñoz;SF-FL-47;Plumillas en Mal Estado;PENDIENTE;
-21-08-2024;SAN FERNANDO;Alex Martinez;GPRG77;Crujido sospechoso en suspensión trasera y perdida de líquido refrigerante;PENDIENTE;
-20-08-2024;OSORNO;Hilario Fucha ;PKFD83;Espejo lado izquierdo trizado ;PENDIENTE;
+23-08-2024;CONCEPCION;Luis Crisostomo ;SRYB-16;Prueba;GESTIONADO;
+22-08-2024;TEMUCO;José Muñoz;SF-FL-47;Plumillas en Mal Estado;GESTIONADO;PLUMILLAS CAMBIADAS
+21-08-2024;SAN FERNANDO;Alex Martinez;GPRG77;Crujido sospechoso en suspensión trasera y perdida de líquido refrigerante;GESTIONADO;REPARADO
+20-08-2024;OSORNO;Hilario Fucha ;PKFD83;Espejo lado izquierdo trizado ;GESTIONADO;ESPEJO CAMBIADO
 17-08-2024;MELIPILLA;Manuel castañeda ;RFJF60;Luces de ópticos quemadas, luces de frenos quemadas.;PENDIENTE;
-17-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 ;Frenos largos y sonidos al frenar amerita cambio de pastillas ;PENDIENTE;
-16-08-2024;CONCEPCION;Sebastián reyes ;PKFD44;Bateria en mal estado;PENDIENTE;
+17-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 ;Frenos largos y sonidos al frenar amerita cambio de pastillas ;GESTIONADO;FRENOS AJUSTADOS
+16-08-2024;CONCEPCION;Sebastián reyes ;PKFD44;Bateria en mal estado;EN PROCESO;SE REVISO BATERIA EN OBS ( SE CAMBIO HACE 8 MESES )
 14-08-2024;TEMUCO;Héctor Sánchez Abarca ;GPRG93;Tiene batería buena pero no arranca el motor. Al girar llave no hace nada;GESTIONADO;BATERIA CAMBIADA
 13-08-2024;TEMUCO;Pablo Perez;RPFT-33;Sin rueda de repuesto. por reventarse 1 en ruta;GESTIONADO;NEUMATICO REPARADO
-13-08-2024;OSORNO;Pablo González ;LHGH23;Neumáticos gastados. Sin neumático de repuesto.;PENDIENTE;
+13-08-2024;OSORNO;Pablo González ;LHGH23;Neumáticos gastados. Sin neumático de repuesto.;GESTIONADO;NEUMATICOS CAMBIADOS
 12-08-2024;CASTRO;Jacqueline ;KGCV-28;Camioneta sin adaptadores para cargar impresora y celular. Además freno de mano en malas condiciones vehículo se desplaza aun con freno de manos. ;GESTIONADO;CABLE INSTALADO
-12-08-2024;PUERTO MONTT;Luis mancilla;LHGR-64;Neumaticos;PENDIENTE;ESPERANDO RESPUESTA DE AVIS
+12-08-2024;PUERTO MONTT;Luis mancilla;LHGR-64;Neumaticos;GESTIONADO;NEUMATICOS CAMBIADOS
 10-08-2024;CASTRO;Jacqueline mansilla ;LHGR58;Puerta en mal estado por golpe. ;EN PROCESO;VH EN TALLER 
 10-08-2024;LOS ANGELES;José Carlos loyola;LPDH58;Foco delantero lado izquierdo quemado y Intermitente trasero lado derecho quemado ;GESTIONADO;AMPOLLETAS CAMBIADAS
 09-08-2024;LO ESPEJO;Francisco aguilera;KLDZ88;Camion se queda parado sin fuerza en plena autopista;PENDIENTE;
-09-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 ;Puerta trasera izquierda chocada no cierra bien por favor realizar reparación lo antes posible o reemplazar por un vehículo grande ya que ando en una terrano y es difícil trabajar así la ruta de Consumo ;PENDIENTE;
+09-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 ;Puerta trasera izquierda chocada no cierra bien por favor realizar reparación lo antes posible o reemplazar por un vehículo grande ya que ando en una terrano y es difícil trabajar así la ruta de Consumo ;GESTIONADO;REPARADO
 07-08-2024;TEMUCO;Christopher herrera;SBYC46;Neumáticos traseros en mal estado ;GESTIONADO;NEUMATICOS CAMBIADOS
-06-08-2024;SAN FERNANDO;Marcelo salazar;PGPY69;Soporte tubo de escape malo o roto;PENDIENTE;
+06-08-2024;SAN FERNANDO;Marcelo salazar;PGPY69;Soporte tubo de escape malo o roto;GESTIONADO;REPARADO
 06-08-2024;LOS ANGELES;Luis carrera ;RCZB-15;Falta de Repuesto del vehículo Neumático trasero del vehículo por Doblemente reparado ;GESTIONADO;NEUMATICOS CAMBIADOS
-03-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77;Puerta del Cajón chocada no cierra bien es difícil trabajar así por favor reparar lo antes posible ;PENDIENTE;
+03-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77;Puerta del Cajón chocada no cierra bien es difícil trabajar así por favor reparar lo antes posible ;GESTIONADO;REPARADO
 03-08-2024;CASTRO;Anyelo;LHGR50;Batería mailisa no carga nada ;GESTIONADO;BATERIA CAMBIADA
 02-08-2024;CONCEPCION;Eduardo cuevas ;RHYH-59;Al frenar suavemente el camión frena bruscamente de golpe ;GESTIONADO;SE LIMPIAN TAMBORES TRASEROS QUE CONTENIAN BARRO
 02-08-2024;TEMUCO;Nicolas Carrillo;JKRL-12;Bateria en mal estado(a dejado en pana 4 veces);GESTIONADO;BATERIA CAMBIADA
