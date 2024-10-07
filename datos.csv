@@ -1,9 +1,15 @@
 Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la falla;Estado ;Comentarios
+05-10-2024;CASTRO;Jorge;SGVH72;Piedra en ruta hizo piquete en el vidrio ;PENDIENTE;
+04-10-2024;OTROS;Aliki vargas;LGSX-79 ;Pastillas gastadas, caliper sonando de ambos neumatico y fuga de agua camiol reparado hace 1 semana y no esta en buena condiciones ;PENDIENTE;
+04-10-2024;OTROS;Miguel vega;PBKD49 ;No tiene ampolleta de iluminación en interior de cajon ;PENDIENTE;
+04-10-2024;OTROS;Alexis Yepez ;LGSF-95;Foco delantero lado derecho quemado;PENDIENTE;
+04-10-2024;OTROS;Cristian ramirez Martel ;PBKD57;Parabrisas trisado, cuadrar puerta trasera de cajón e iluminación interior de cajón ;PENDIENTE;
+04-10-2024;ANTOFAGASTA;Hector nuñez;LGSX56;Parachoque luces cajon pestillo trasero puerta;PENDIENTE;
 30-09-2024;VIÑA DEL MAR;Sebastian ;RHYH75;Espejo suelto;PENDIENTE;
 27-09-2024;TEMUCO;Héctor ;JKRL-14;Cinturón de seguridad en mal estado. ;PENDIENTE;
 27-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32 ;Frenos no funcionan perfectamente, al accionar vehículo vibra fuerte, cámara de retroceso funciona con intermitencia, mica foco de freno lado chofer quebrado ;PENDIENTE;
 27-09-2024;PUERTO MONTT;Julio rosas uribe;LH GH 14;Enbreage demaciado duro para pasar los cambios, y caja de cambio hay que esforsarla para pasar cambio;PENDIENTE;
-26-09-2024;LO ESPEJO;Ramon Gustavo Salazar ;JKGH-41;Derramó líquido a la altura de la rueda delantera derecha ;PENDIENTE;
+26-09-2024;LO ESPEJO;Ramon Gustavo Salazar ;JKGH-41;Derramó líquido a la altura de la rueda delantera derecha ;GESTIONADO;
 26-09-2024;OTROS;Alexis Yepez;LGSF-95;Foco delantero quemado, cable de batería no ajustado;PENDIENTE;
 26-09-2024;LOS ANGELES;Jonathan Paredes;JFHB-12;Bocina no funciona ;PENDIENTE;
 25-09-2024;LOS ANGELES;José Carlos loyola ;SJDJ82;Vehículo vibra demaciado al tomar un poco de velocidad ;PENDIENTE;
@@ -28,8 +34,8 @@ Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la fall
 07-09-2024;OSORNO;Moira Vargas;PKFF44;Falla en pantalla ;PENDIENTE;
 06-09-2024;SAN FERNANDO;Juan pablo catalan;GKYX99;Se reporta por segunda vez neumatico delantero derecho en pésimas condiciones;CERRADO;CAMBIADO
 05-09-2024;TALCA;Elías Carreño ;PJTV-31;viniendo por carretera algo golpea el parabrisas y deja la marca ;PENDIENTE;
-03-09-2024;EL PINAR;Daniel leiva;KVDP96 ;Parachoques sueldo lado izquierdo ;PENDIENTE;
-03-09-2024;EL PINAR;Daniel leiva;KVDP96;Prendido chec engenir ;PENDIENTE;
+03-09-2024;EL PINAR;Daniel leiva;KVDP96 ;Parachoques sueldo lado izquierdo ;CERRADO;
+03-09-2024;EL PINAR;Daniel leiva;KVDP96;Prendido chec engenir ;CERRADO;
 03-09-2024;SAN FERNANDO;Juan pablo catalan;GKYX-99;Neumático delantero lado derecho, en malas condiciones de desgaste;PENDIENTE;
 02-09-2024;SAN FERNANDO;Alex Martinez ;FKRD80;Disminución líquido refrigerante.... Humo negro en salida de escape...;PENDIENTE;
 02-09-2024;SAN FERNANDO;Alex Martinez ;FKRD80;Revisar frenos inestables al frenar con pedal.... Aparte freno de mano no frena...;GESTIONADO;
@@ -37,20 +43,20 @@ Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la fall
 30-08-2024;TALCA;Elias Carreño ;PJTV-31;Falla chapa lado conductor, no abre;GESTIONADO;Chapa Cambiada
 29-08-2024;OTROS;Nicolas fritis;FGBW77;Fallo motor de arranque en ruta debiendo hacer cambio de camion,  embrague corto, falta un espejo, palanca de cambios suelta, alzavidrios fallando, falta de potencia, falta de regulacion en frenos, falta de regulacion freno de estacionamiento, filtracion de humo de escape a cabina, puertas de cajon con juego y se abren, falta gomas de las pedaleras, se notifico al mecánico indicando de su parte que no podia diagnosticar la falla que no veía.;;
 29-08-2024;SAN FERNANDO;Natalia Cubillos;FSSW-68;Plumillas en mal estado ;CERRADO;
-28-08-2024;LO ESPEJO;Cristian Galaz ;HSTL34;Ventanas no suben ni bajan ;PENDIENTE;
+28-08-2024;LO ESPEJO;Cristian Galaz ;HSTL34;Ventanas no suben ni bajan ;CERRADO;
 28-08-2024;SAN FERNANDO;Alex;FKRD80;Problema de frenos general y cajón mal aislado ;PENDIENTE;
 28-08-2024;LA SERENA;Giovanni malebran;PF Y-24;No funciona la radio con pantalla y con ese problema no funciona la cámara de retroceso ;PENDIENTE;
 27-08-2024;CASTRO;Jacqueline;KGCV-28;Luz de falla motor permanece encendido aun motor andando, neumáticos con desgastes por roces fotografía enviadas a supervisora.;PENDIENTE;
 27-08-2024;OTROS;Juan Vargas ;LHGH-27;Problemas de batería tercer día consecutivo que se queda sin bateria;PENDIENTE;
 24-08-2024;SAN FERNANDO;Gastón Carreño Ramirez ;PJTT-25;Luces de baja quemada ;CERRADO;
 24-08-2024;OSORNO;Hilario Fucha ;PKFD83;Luz baja quemada ;GESTIONADO;Ampolleta Cambiada
-24-08-2024;LO ESPEJO;Jorge Carrillo Jerez;KFWT-78;No encienden las luces de retroceso y chapa de encendido con problemas de conexión ;GESTIONADO;
+24-08-2024;LO ESPEJO;Jorge Carrillo Jerez;KFWT-78;No encienden las luces de retroceso y chapa de encendido con problemas de conexión ;CERRADO;
 23-08-2024;CONCEPCION;Fabián Moncada ;PB-PD 62;Batería del camión en mal estado ;PENDIENTE;
-23-08-2024;LO ESPEJO;Ramón Gustavo Salazar ;JKGH 41;Cinturón de seguridad conductor malo ;GESTIONADO;
+23-08-2024;LO ESPEJO;Ramón Gustavo Salazar ;JKGH 41;Cinturón de seguridad conductor malo ;CERRADO;
 22-08-2024;TEMUCO;José Muñoz;SF-FL-47;Plumillas en Mal Estado;GESTIONADO;Plumilla Cambiada
 21-08-2024;SAN FERNANDO;Alex Martinez;GPRG77;Crujido sospechoso en suspensión trasera y perdida de líquido refrigerante;GESTIONADO;
 20-08-2024;OSORNO;Hilario Fucha ;PKFD83;Espejo lado izquierdo trizado ;PENDIENTE;
-17-08-2024;MELIPILLA;Manuel castañeda ;RFJF60;Luces de ópticos quemadas, luces de frenos quemadas.;GESTIONADO;
+17-08-2024;MELIPILLA;Manuel castañeda ;RFJF60;Luces de ópticos quemadas, luces de frenos quemadas.;CERRADO;
 17-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 ;Frenos largos y sonidos al frenar amerita cambio de pastillas ;CERRADO;
 16-08-2024;CONCEPCION;Sebastián reyes ;PKFD44;Bateria en mal estado;PENDIENTE;
 14-08-2024;TEMUCO;Héctor Sánchez Abarca ;GPRG93;Tiene batería buena pero no arranca el motor. Al girar llave no hace nada;PENDIENTE;
